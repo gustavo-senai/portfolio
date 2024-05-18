@@ -33,9 +33,9 @@
     width: 100%;
     height: 48px;
     font-size: 36px;
-    background-color: black;
+    background-color: white;
     a {
-        color: white;
+        color: darkolivegreen;
     }
 }
 
